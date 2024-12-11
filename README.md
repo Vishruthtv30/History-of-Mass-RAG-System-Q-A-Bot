@@ -1,6 +1,6 @@
 
 
-**History of Massachusetts - A RAG System Q&A Bot**
+***History of Massachusetts - A RAG System Q&A Bot***
 
 ### Overview
 

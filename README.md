@@ -5,14 +5,15 @@
 [![Demo Link](https://img.shields.io/badge/DEMO%20LINK-red?style=for-the-badge)](https://your-demo-link.com)
 
 ## Tools & Technologies
-[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)](https://your-python-link.com)
-[![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)](https://your-streamlit-link.com)
+[![Python](https://img.shields.io/badge/Python-lightblue?style=for-the-badge&logo=python)](https://your-python-link.com)
+[![Streamlit](https://img.shields.io/badge/Streamlit-lightcoral?style=for-the-badge&logo=streamlit)](https://your-streamlit-link.com)
 [![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)](https://your-openai-link.com)
 [![FAISS](https://img.shields.io/badge/FAISS-green?style=for-the-badge)](https://your-faiss-link.com)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-orange?style=for-the-badge&logo=huggingface)](https://your-hugging-face-link.com)
 [![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas)](https://your-pandas-link.com)
 [![Wikipedia API](https://img.shields.io/badge/Wikipedia%20API-lightgrey?style=for-the-badge)](https://your-wikipedia-api-link.com)
 [![LangChain](https://img.shields.io/badge/LangChain-purple?style=for-the-badge)](https://your-langchain-link.com)
+
 
 
 

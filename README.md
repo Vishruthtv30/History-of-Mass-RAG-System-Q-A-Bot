@@ -1,8 +1,9 @@
 # History of Massachusetts Q&A Bot
 
 ### Live Application Links
-[![Live App](https://img.shields.io/badge/LIVE%20APP-Green-green)](https://lfkzplbnxa55eeb2jwdvka.streamlit.app/)
-[![Demo Link](https://img.shields.io/badge/DEMO%20LINK-Red-red)](https://your-demo-link.com)
+[![Live App](https://img.shields.io/badge/LIVE%20APP-green?style=for-the-badge)](https://lfkzplbnxa55eeb2jwdvka.streamlit.app/)
+[![Demo Link](https://img.shields.io/badge/DEMO%20LINK-red?style=for-the-badge)](https://your-demo-link.com)
+
 
 
 

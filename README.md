@@ -96,6 +96,7 @@ The **History of Massachusetts Q&A Bot** is a Retrieval-Augmented Generation (RA
 │   ├── output.md
 ├── Report/
 │   ├── Project_Report.pdf
+│   ├── Application.png
 ├── RAGChat.py
 ├── Wiki_Scraper.py
 ├── app.py

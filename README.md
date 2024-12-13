@@ -158,6 +158,9 @@ This structured process ensures that the Wikipedia data is well-organized, easy 
 **Input**: "What is the history of the Massachusetts Bay Colony?"  
 **Output**: Founded in 1630, became Province of Massachusetts Bay in 1691–92
 
+<img width="1710" alt="Application" src="https://github.com/user-attachments/assets/b0fe808c-96f0-4097-9209-b8892b243fb0" />
+
+
 ## Key Components
 
 ### Data Scraping

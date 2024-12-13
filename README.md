@@ -79,7 +79,7 @@ The **History of Massachusetts Q&A Bot** is a Retrieval-Augmented Generation (RA
    ```bash
    streamlit run app.py
    ```
-   ## Project Tree
+## Project Tree
 ```
 ├── .streamlit/
 │   ├── secrets.toml

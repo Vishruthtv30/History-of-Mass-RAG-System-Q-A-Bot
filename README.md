@@ -46,6 +46,28 @@ The **History of Massachusetts Q&A Bot** is a Retrieval-Augmented Generation (RA
    echo "[secrets]\napi='<YOUR_API_KEY>'" > ~/.streamlit/secrets.toml
    ```
 
+## Project Tree
+```
+├── .streamlit/
+│   ├── secrets.toml
+├── Data/
+│   ├── raw_data/
+│   │   ├── History_of_Massachusetts.csv
+│   │   ├── Massachusetts.csv
+│   │   ├── Massachusetts_Bay_Colony.csv
+│   │   ├── ... (other Wikipedia-sourced CSV files)
+│   ├── combined_data.csv
+│   ├── output.md
+├── Report/
+│   ├── Project_Report.pdf
+├── RAGChat.py
+├── Wiki_Scraper.py
+├── app.py
+├── markdown.py
+├── requirements.txt
+├── README.md
+```
+
 ## Usage
 
 ### Data Preparation

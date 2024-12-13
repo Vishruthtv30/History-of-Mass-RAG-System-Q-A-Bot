@@ -1,5 +1,11 @@
 # History of Massachusetts Q&A Bot
 
+### Live Application Links
+[![Live App](https://img.shields.io/badge/LIVE%20APP-Green-green)](https://lfkzplbnxa55eeb2jwdvka.streamlit.app/)
+[![Demo Link](https://img.shields.io/badge/DEMO%20LINK-Red-red)](https://your-demo-link.com)
+
+
+
 ## Overview
 
 The **History of Massachusetts Q&A Bot** is a Retrieval-Augmented Generation (RAG) system designed to answer questions about Massachusetts history. It leverages Wikipedia as the primary knowledge source, employs vector embeddings for semantic search, and integrates OpenAI's GPT-3.5-turbo for natural language responses. The system processes historical data into Markdown and CSV formats and uses a Streamlit interface for user interaction.

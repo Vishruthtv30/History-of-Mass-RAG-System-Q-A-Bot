@@ -2,17 +2,17 @@
 
 ## Live Application Links
 [![Live App](https://img.shields.io/badge/LIVE%20APP-green?style=for-the-badge)](https://lfkzplbnxa55eeb2jwdvka.streamlit.app/)
-[![Demo Link](https://img.shields.io/badge/DEMO%20LINK-red?style=for-the-badge)](https://your-demo-link.com)
+[![Demo Link](https://img.shields.io/badge/DEMO%20LINK-red?style=for-the-badge)](https://drive.google.com/file/d/1iDpnKziA_2BT4bhlxEqdznhVWQsYglYq/view?usp=sharing)
 
 ## Tools & Technologies
-[![Python](https://img.shields.io/badge/Python-lightblue?style=for-the-badge&logo=python)](https://your-python-link.com)
-[![Streamlit](https://img.shields.io/badge/Streamlit-lightcoral?style=for-the-badge&logo=streamlit)](https://your-streamlit-link.com)
-[![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)](https://your-openai-link.com)
-[![FAISS](https://img.shields.io/badge/FAISS-green?style=for-the-badge)](https://your-faiss-link.com)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-orange?style=for-the-badge&logo=huggingface)](https://your-hugging-face-link.com)
-[![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas)](https://your-pandas-link.com)
-[![Wikipedia API](https://img.shields.io/badge/Wikipedia%20API-lightgrey?style=for-the-badge)](https://your-wikipedia-api-link.com)
-[![LangChain](https://img.shields.io/badge/LangChain-purple?style=for-the-badge)](https://your-langchain-link.com)
+[![Python](https://img.shields.io/badge/Python-lightblue?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-lightcoral?style=for-the-badge&logo=streamlit)](https://streamlit.io/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)](https://openai.com/)
+[![FAISS](https://img.shields.io/badge/FAISS-green?style=for-the-badge)](https://ai.meta.com/tools/faiss/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-orange?style=for-the-badge&logo=huggingface)](https://huggingface.co/)
+[![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
+[![Wikipedia API](https://img.shields.io/badge/Wikipedia%20API-lightgrey?style=for-the-badge)](https://pypi.org/project/Wikipedia-API/)
+[![LangChain](https://img.shields.io/badge/LangChain-purple?style=for-the-badge)](https://www.langchain.com/)
 
 
 
